@@ -16,6 +16,7 @@ Mini Project 1: CRUD Quản lý Sản phẩm
 
 2) Cấu trúc file
 
+```
 product-api/
 ├── src/
 │   ├── routes/
@@ -33,7 +34,7 @@ product-api/
 ├── package.json
 ├── .env
 └── README.md
-
+```
 3) Setup:
 
 npm init -y
