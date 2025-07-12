@@ -36,7 +36,7 @@ product-api/
 └── README.md
 ```
 3) Setup:
-
+```
 npm init -y
 npm install express cors dotenv
 npm install -D nodemon
@@ -45,5 +45,5 @@ Thêm "scripts": {
   "start": "node src/app.js",
   "dev": "nodemon src/app.js"
 } vào trong file package.json
-
+```
 Chạy file products.js
